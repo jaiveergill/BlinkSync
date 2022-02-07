@@ -1,0 +1,1 @@
+Morse: {current_sequence}, Word: {full_sequence}, Until letter: {silence1}, Until space: {silence2}

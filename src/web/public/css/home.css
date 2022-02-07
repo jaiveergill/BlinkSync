@@ -1,0 +1,11 @@
+#text {
+    color: rgb(8, 122, 126);
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.red {
+    font-size: 60px;
+    font-weight: 700;
+}
